@@ -1,0 +1,108 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+ {
+  color: #333333;
+  font-weight: 100;
+}
+
+.search {
+  width : 60%;
+}
+
+.active-orange-3 {
+  border-color: orange;
+}
+
+.navbar {
+  
+}
+
+.navbar a {
+  color: #333333;
+}
+.navbar a:active {
+  color: #DE751F;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(2.25rem + 2px);
+    padding: 1.5rem 1.75rem;    
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #e9ecef;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 5rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+
+.headline {
+
+}
+
+.categories a {
+  padding: 0px 10px 0px 10px;
+  margin-bottom: 3rem; 
+}
+
+a:active {
+  color: #DE751F;
+}
+.active  {
+  color: #DE751F;
+}
+
+.card {
+  transition: all 0.3s ease-out;
+  border: none;
+  
+}
+
+.card-body {
+    -ms-flex: 1 1 auto;
+    -webkit-box-flex: 1;
+    flex: 1 1 auto;
+    padding: 1.25rem 0 0 0;
+}
+
+.card:hover {
+  transform: translateY(-5px) scale(1.085) translateZ(0);
+  box-shadow: 0 24px 36px rgba(0,0,0,0.5),
+    0 24px 46px var(--box-shadow-color);
+}
+
+/*top tooltip*/
+.tooltip-inner {
+    max-width: 200px;
+    padding: 3px 8px;
+    color: blue;
+    text-align: center;
+    background-color: #000;
+    border-radius: .25rem;
+}
+
+.tooltip.bs-tooltip-auto[x-placement^=top] .arrow::before, .tooltip.bs-tooltip-top .arrow::before {
+    margin-left: -3px;
+    content: "";
+    border-width: 5px 5px 0;
+    border-top-color: #000;
+}
+
+.icon-name {
+  color: #bdbdbd;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+li {
+  list-style: none;
+}
