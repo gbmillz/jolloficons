@@ -31,12 +31,12 @@ export default {
         {
           title: "pen",
           image: require("../assets/img/pen.png"),
-          imagesvg: "/icons/pen.svg"
+          imagesvg: "icons/pen.svg"
         },
         {
           title: "publicadd",
           image: require("../assets/img/publicadd.png"),
-          imagesvg: "/icons/publicadd.svg"
+          imagesvg: "/jolloficons/icons/publicadd.svg"
         },
         {
           title: "tv",
