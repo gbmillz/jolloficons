@@ -5,22 +5,22 @@ import Abstract from "./components/Abstract.vue";
 
 export const routes = [
   {
-    path: "/",
+    path: "/jolloficons/",
     name: "3D",
     component: ThreeD
   },
   {
-    path: "/isometric",
+    path: "/jolloficons/isometric",
     name: "isometric",
     component: Isometric
   },
   {
-    path: "/emojis",
+    path: "/jolloficons/emojis",
     name: "emojis",
     component: Emojis
   },
   {
-    path: "/abstract",
+    path: "/jolloficons/abstract",
     name: "abstract",
     component: Abstract
   }
