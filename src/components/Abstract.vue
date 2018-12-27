@@ -31,52 +31,52 @@ export default {
         {
           title: "abstract001",
           image: require("../assets/img/abstract001.png"),
-          imagesvg: "/icons/abstract001.svg"
+          imagesvg: "icons/abstract001.svg"
         },
         {
           title: "abstract002",
           image: require("../assets/img/abstract002.png"),
-          imagesvg: "/icons/abstract002.svg"
+          imagesvg: "icons/abstract002.svg"
         },
         {
           title: "abstract003",
           image: require("../assets/img/abstract003.png"),
-          imagesvg: "/icons/abstract003.svg"
+          imagesvg: "icons/abstract003.svg"
         },
         {
           title: "abstract004",
           image: require("../assets/img/abstract004.png"),
-          imagesvg: "/icons/abstract004.svg"
+          imagesvg: "icons/abstract004.svg"
         },
         {
           title: "abstract005",
           image: require("../assets/img/abstract005.png"),
-          imagesvg: "/icons/abstract005.svg"
+          imagesvg: "icons/abstract005.svg"
         },
         {
           title: "abstract006",
           image: require("../assets/img/abstract006.png"),
-          imagesvg: "/icons/abstract006.svg"
+          imagesvg: "icons/abstract006.svg"
         },
         {
           title: "abstract007",
           image: require("../assets/img/abstract007.png"),
-          imagesvg: "/icons/abstract007.svg"
+          imagesvg: "icons/abstract007.svg"
         },
         {
           title: "abstract008",
           image: require("../assets/img/abstract008.png"),
-          imagesvg: "/icons/abstract009.svg"
+          imagesvg: "icons/abstract009.svg"
         },
         {
           title: "abstract009",
           image: require("../assets/img/abstract009.png"),
-          imagesvg: "/icons/abstract009.svg"
+          imagesvg: "icons/abstract009.svg"
         },
         {
           title: "abstract010",
           image: require("../assets/img/abstract010.png"),
-          imagesvg: "/icons/abstract010.svg"
+          imagesvg: "icons/abstract010.svg"
         }
       ]
     };

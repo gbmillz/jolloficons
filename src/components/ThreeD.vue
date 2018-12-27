@@ -36,237 +36,237 @@ export default {
         {
           title: "publicadd",
           image: require("../assets/img/publicadd.png"),
-          imagesvg: "/jolloficons/icons/publicadd.svg"
+          imagesvg: "icons/publicadd.svg"
         },
         {
           title: "tv",
           image: require("../assets/img/tv.png"),
-          imagesvg: "/icons/tv.svg"
+          imagesvg: "icons/tv.svg"
         },
         {
           title: "radio",
           image: require("../assets/img/radio.png"),
-          imagesvg: "/icons/radio.svg"
+          imagesvg: "icons/radio.svg"
         },
         {
           title: "cigarette",
           image: require("../assets/img/cigarette.png"),
-          imagesvg: "/icons/cigarette.svg"
+          imagesvg: "icons/cigarette.svg"
         },
         {
           title: "umbrella",
           image: require("../assets/img/umbrella.png"),
-          imagesvg: "/icons/umbrella.svg"
+          imagesvg: "icons/umbrella.svg"
         },
         {
           title: "wallet",
           image: require("../assets/img/wallet.png"),
-          imagesvg: "/icons/wallet.svg"
+          imagesvg: "icons/wallet.svg"
         },
         {
           title: "wastebin",
           image: require("../assets/img/wastebin.png"),
-          imagesvg: "/icons/wastebin.svg"
+          imagesvg: "icons/wastebin.svg"
         },
         {
           title: "scroll",
           image: require("../assets/img/scroll.png"),
-          imagesvg: "/icons/scroll.svg"
+          imagesvg: "icons/scroll.svg"
         },
         {
           title: "mouse",
           image: require("../assets/img/mouse.png"),
-          imagesvg: "/icons/mouse.svg"
+          imagesvg: "icons/mouse.svg"
         },
         {
           title: "mail",
           image: require("../assets/img/mail.png"),
-          imagesvg: "/icons/mail.svg"
+          imagesvg: "icons/mail.svg"
         },
         {
           title: "gears",
           image: require("../assets/img/gears.png"),
-          imagesvg: "/icons/gears.svg"
+          imagesvg: "icons/gears.svg"
         },
         {
           title: "windows",
           image: require("../assets/img/windows.png"),
-          imagesvg: "/icons/windows.svg"
+          imagesvg: "icons/windows.svg"
         },
         {
           title: "scale",
           image: require("../assets/img/scale.png"),
-          imagesvg: "/icons/scale.svg"
+          imagesvg: "icons/scale.svg"
         },
         {
           title: "washingmachine",
           image: require("../assets/img/washingmachine.png"),
-          imagesvg: "/icons/washingmachine.svg"
+          imagesvg: "icons/washingmachine.svg"
         },
         {
           title: "stethoscope",
           image: require("../assets/img/stethoscope.png"),
-          imagesvg: "/icons/stethoscope.svg"
+          imagesvg: "icons/stethoscope.svg"
         },
         {
           title: "padlock",
           image: require("../assets/img/padlock.png"),
-          imagesvg: "/icons/padlock.svg"
+          imagesvg: "icons/padlock.svg"
         },
         {
           title: "telephone",
           image: require("../assets/img/telephone.png"),
-          imagesvg: "/icons/telephone.svg"
+          imagesvg: "icons/telephone.svg"
         },
         {
           title: "mortarpestle",
           image: require("../assets/img/mortarpestle.png"),
-          imagesvg: "/icons/mortarpestle.svg"
+          imagesvg: "icons/mortarpestle.svg"
         },
         {
           title: "gavel",
           image: require("../assets/img/gavel.png"),
-          imagesvg: "/icons/gavel.svg"
+          imagesvg: "icons/gavel.svg"
         },
         {
           title: "fuel",
           image: require("../assets/img/fuel.png"),
-          imagesvg: "/icons/fuel.svg"
+          imagesvg: "icons/fuel.svg"
         },
         {
           title: "folder",
           image: require("../assets/img/folder.png"),
-          imagesvg: "/icons/folder.svg"
+          imagesvg: "icons/folder.svg"
         },
         {
           title: "firstaid",
           image: require("../assets/img/firstaid.png"),
-          imagesvg: "/icons/firstaid.svg"
+          imagesvg: "icons/firstaid.svg"
         },
         {
           title: "android",
           image: require("../assets/img/android.png"),
-          imagesvg: "/icons/android.svg"
+          imagesvg: "icons/android.svg"
         },
         {
           title: "ball",
           image: require("../assets/img/ball.png"),
-          imagesvg: "/icons/ball.svg"
+          imagesvg: "icons/ball.svg"
         },
         {
           title: "books",
           image: require("../assets/img/books.png"),
-          imagesvg: "/icons/books.svg"
+          imagesvg: "icons/books.svg"
         },
         {
           title: "chess",
           image: require("../assets/img/chess.png"),
-          imagesvg: "/icons/chess.svg"
+          imagesvg: "icons/chess.svg"
         },
         {
           title: "cowryshells",
           image: require("../assets/img/cowryshells.png"),
-          imagesvg: "/icons/cowryshells.svg"
+          imagesvg: "icons/cowryshells.svg"
         },
         {
           title: "cup",
           image: require("../assets/img/cup.png"),
-          imagesvg: "/icons/cup.svg"
+          imagesvg: "icons/cup.svg"
         },
         {
           title: "mosque",
           image: require("../assets/img/mosque.png"),
-          imagesvg: "/icons/mosque.svg"
+          imagesvg: "icons/mosque.svg"
         },
         {
           title: "church",
           image: require("../assets/img/church.png"),
-          imagesvg: "/icons/church.svg"
+          imagesvg: "icons/church.svg"
         },
         {
           title: "bucket",
           image: require("../assets/img/bucket.png"),
-          imagesvg: "/icons/bucket.svg"
+          imagesvg: "icons/bucket.svg"
         },
         {
           title: "cake",
           image: require("../assets/img/cake.png"),
-          imagesvg: "/icons/cake.svg"
+          imagesvg: "icons/cake.svg"
         },
         {
           title: "keg",
           image: require("../assets/img/keg.png"),
-          imagesvg: "/icons/keg.svg"
+          imagesvg: "icons/keg.svg"
         },
         {
           title: "microphone",
           image: require("../assets/img/microphone.png"),
-          imagesvg: "/icons/microphone.svg"
+          imagesvg: "icons/microphone.svg"
         },
         {
           title: "briefcase",
           image: require("../assets/img/briefcase.png"),
-          imagesvg: "/icons/briefcase.svg"
+          imagesvg: "icons/briefcase.svg"
         },
         {
           title: "battery",
           image: require("../assets/img/battery.png"),
-          imagesvg: "/icons/battery.svg"
+          imagesvg: "icons/battery.svg"
         },
         {
           title: "ethereum",
           image: require("../assets/img/ethereum.png"),
-          imagesvg: "/icons/ethereum.svg"
+          imagesvg: "icons/ethereum.svg"
         },
         {
           title: "bitcoin",
           image: require("../assets/img/bitcoin.png"),
-          imagesvg: "/icons/bitcoin.svg"
+          imagesvg: "icons/bitcoin.svg"
         },
         {
           title: "creditcard",
           image: require("../assets/img/creditcard.png"),
-          imagesvg: "/icons/creditcard.svg"
+          imagesvg: "icons/creditcard.svg"
         },
         {
           title: "danfobus",
           image: require("../assets/img/danfobus.png"),
-          imagesvg: "/icons/danfobus.svg"
+          imagesvg: "icons/danfobus.svg"
         },
         {
           title: "harddisk",
           image: require("../assets/img/harddisk.png"),
-          imagesvg: "/icons/harddisk.svg"
+          imagesvg: "icons/harddisk.svg"
         },
         {
           title: "cubes",
           image: require("../assets/img/cubes.png"),
-          imagesvg: "/icons/cubes.svg"
+          imagesvg: "icons/cubes.svg"
         },
         {
           title: "money",
           image: require("../assets/img/money.png"),
-          imagesvg: "/icons/money.svg"
+          imagesvg: "icons/money.svg"
         },
         {
           title: "printer",
           image: require("../assets/img/printer.png"),
-          imagesvg: "/icons/printer.svg"
+          imagesvg: "icons/printer.svg"
         },
         {
           title: "smokingpipe",
           image: require("../assets/img/smokingpipe.png"),
-          imagesvg: "/icons/smokingpipe.svg"
+          imagesvg: "icons/smokingpipe.svg"
         },
         {
           title: "speaker",
           image: require("../assets/img/speaker.png"),
-          imagesvg: "/icons/speaker.svg"
+          imagesvg: "icons/speaker.svg"
         },
         {
           title: "lightbulb",
           image: require("../assets/img/lightbulb.png"),
-          imagesvg: "/icons/lightbulb.svg"
+          imagesvg: "icons/lightbulb.svg"
         },
       ]
     };

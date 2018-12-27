@@ -14,7 +14,7 @@
       <div class="navbar-collapse collapse justify-content-end" id="navbarDefault">
         <ul class="navbar-nav">
          <li class="nav-item">
-            <a class="nav-link" href="../icons/iconpack.zip" download="">DOWNLOAD</a>
+            <a class="nav-link" href="/jolloficons/icons/iconpack.zip" download="">DOWNLOAD</a>
           </li>
         </ul>
       </div>
