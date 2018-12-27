@@ -14,7 +14,7 @@
       <div class="navbar-collapse collapse justify-content-end" id="navbarDefault">
         <ul class="navbar-nav">
          <li class="nav-item">
-            <a class="nav-link" href="../icons/pen.svg" download="">DOWNLOAD</a>
+            <a class="nav-link" href="../icons/iconpack.zip" download="">DOWNLOAD</a>
           </li>
         </ul>
       </div>
@@ -36,7 +36,7 @@
 
        <div class="text-center">
       <h3 class="my-4 text-center">All icons are in svg format</h3>
-      <p>Click on any icon to download</p>
+      <p>Click on any icon to download, or download all icons using the button above</p>
       </div>
        <hr>
 
@@ -45,13 +45,15 @@
       <div class="categories pt-5 pb-2 d-flex">
         <h5>Categories : </h5>
         <ul class="nav nav-pills">
-          <router-link tag = 'li' to ="/" class = "is-active" exact><a>Jollof 3D</a></router-link>
-          <router-link tag = 'li' to ="/isometric" class = "is-active" exact><a>Jollof Isometric</a></router-link>
-          <router-link tag = 'li' to ="/emojis" class = "is-active" exact><a>Jollof Emojis</a></router-link>
-          <router-link tag = 'li' to ="/abstract" class = "is-active" exact><a>Jollof Abstract</a></router-link>
-        </ul>   
+          <router-link to ="/" exact><a>Jollof 3D</a></router-link>
+          <router-link to ="/isometric" exact><a>Jollof Isometric</a></router-link>
+          <router-link to ="/emojis" exact><a>Jollof Emojis</a></router-link>
+          <router-link to ="/abstract" exact><a>Jollof Abstract</a></router-link>
+        </ul>
       </div>
        <!-- end of Categories -->
+
+
   </div>
   </div>
   </template>
@@ -59,10 +61,5 @@
 
 
   <script>
-  export default {
-    name: 'Banner'
-  }
+export default { name: "Banner" };
 </script>
-
-
-

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "play",
+    "image": "require("../assets/img/play.png")",
+    "imagesvg": "/icons/play.svg"
+  },
+  {
+    "title": "stop",
+    "image": "require("../assets/img/stop.png")",
+    "imagesvg": "/icons/stop.svg"
+  },
+  {
+    "title": "pause",
+    "image": "require("../assets/img/pause.png")",
+    "imagesvg": "/icons/pause.svg"
+  },
+  {
+    "title": "previous",
+    "image": "require("../assets/img/previous.png")",
+    "imagesvg": "/icons/previous.svg"
+  },
+  {
+    "title": "next",
+    "image": "require("../assets/img/next.png")",
+    "imagesvg": "/icons/next.svg"
+  },
+  {
+    "title": "fast-forward",
+    "image": "require("../assets/img/fast-forward.png")",
+    "imagesvg": "/icons/fast-forward.svg"
+  },
+  {
+    "title": "rewind",
+    "image": "require("../assets/img/rewind.png")",
+    "imagesvg": "/icons/rewind.svg"
+  }
+]

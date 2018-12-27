@@ -1,7 +1,7 @@
 <template>
 	<div id = "footerr">
 		   <!-- Footer -->
-	
+
     <footer class="py-5 pt-5 mt-5 bg-dark">
       <div class="container">
         <div class = "row">
@@ -23,13 +23,13 @@
       </div>
       <!-- /.container -->
     </footer>
-   
+
 	</div>
 </template>
 
 
  <script>
-  export default {
-    name: 'Footerr'
-  }
+export default {
+  name: "Footerr"
+};
 </script>
