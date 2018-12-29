@@ -4,7 +4,7 @@
      <!--start nav -->
      <div class="navbar navbar-b navbar-trans navbar-expand-md" id="mainNav">
     <div class="container">
-       <router-link to ="/jolloficons/"><a class="navbar-brand" id= "logotext"><img class="logoo" src="../assets/logo.png">Jolloficons</a></router-link>
+       <router-link to ="/"><a class="navbar-brand" id= "logotext"><img class="logoo" src="../assets/logo.png">Jolloficons</a></router-link>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
         aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span></span>
@@ -14,7 +14,7 @@
       <div class="navbar-collapse collapse justify-content-end" id="navbarDefault">
         <ul class="navbar-nav">
          <li class="nav-item">
-            <a class="nav-link" href="/jolloficons/icons/iconpack.zip" download="">DOWNLOAD</a>
+            <a class="nav-link" href="icons/iconpack.zip" download="">DOWNLOAD</a>
           </li>
         </ul>
       </div>
@@ -45,10 +45,10 @@
       <div class="categories pt-5 pb-2 d-flex">
         <h5>Categories : </h5>
         <ul class="nav nav-pills">
-          <router-link to ="/jolloficons/" exact><a>Jollof 3D</a></router-link>
-          <router-link to ="/jolloficons/isometric" exact><a>Jollof Isometric</a></router-link>
-          <router-link to ="/jolloficons/emojis" exact><a>Jollof Emojis</a></router-link>
-          <router-link to ="/jolloficons/abstract" exact><a>Jollof Abstract</a></router-link>
+          <router-link to ="/" exact><a>Jollof 3D</a></router-link>
+          <router-link to ="/isometric" exact><a>Jollof Isometric</a></router-link>
+          <router-link to ="/emojis" exact><a>Jollof Emojis</a></router-link>
+          <router-link to ="/abstract" exact><a>Jollof Abstract</a></router-link>
         </ul>
       </div>
        <!-- end of Categories -->
