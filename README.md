@@ -1,6 +1,8 @@
 # Jolloficons V1.0
 Open source icons (3d, Abstract, Emojis, Isometric) for your projects.
 
+![alt text](https://dribbble.com/shots/5766716-Jollof-Emoji)
+![alt text](https://dribbble.com/shots/5767905-Jollof-3D-Icons)
 
 # Usage
 ```
