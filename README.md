@@ -3,7 +3,7 @@ Open source icons (3d, Abstract, Emojis, Isometric) for your projects.
 
 ![jollof3d](https://raw.githubusercontent.com/gbmillz/jolloficons/master/Jollof3d.png)
 ![jollof3d](https://raw.githubusercontent.com/gbmillz/jolloficons/master/isometric.png)
-![jollof3d](https://raw.githubusercontent.com/gbmillz/jolloficons/master/emojibehance.png)
+![jollof3d](https://raw.githubusercontent.com/gbmillz/jolloficons/master/emoji.png)
 
 
 
